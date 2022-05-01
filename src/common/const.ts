@@ -163,6 +163,7 @@ export const DOMAINS_WITH_CARD = [
   "timer",
   "vacuum",
   "water_heater",
+  "data_collector",
 ];
 
 /** Domains with separate more info dialog. */
@@ -191,6 +192,7 @@ export const DOMAINS_WITH_MORE_INFO = [
   "vacuum",
   "water_heater",
   "weather",
+  "data_collector",
 ];
 
 /** Domains that do not show the default more info dialog content (e.g. the attribute section)
